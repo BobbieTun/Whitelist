@@ -5,6 +5,9 @@ return {
         ["BobbieTun"] = true
     },
     buyers = {
-        ["ZaneOfSus_HGyA1"] = true
+        ["ZaneOfSus_HGyA1"] = true,
+        ["Hibran1986"] = true,
+        ["Hanz_Vladimir"] = true,
+        ["Bugoispro"] = true
     }
 }
