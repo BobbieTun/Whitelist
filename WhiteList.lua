@@ -17,6 +17,6 @@ return {
         ["Markyy_0311"] = true,
         ["The_LegendarkNinja"] = true,
         ["ducdayne1253"] = true,
-        ["YoungHoangDz"] = true
+        ["YoungHoangDZ"] = true
     }
 }
