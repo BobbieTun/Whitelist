@@ -8,6 +8,7 @@ return {
         ["ZaneOfSus_HGyA1"] = true,
         ["Hibran1986"] = true,
         ["Hanz_Vladimir"] = true,
-        ["Bugoispro"] = true
+        ["Bugoispro"] = true,
+        ["ELkhodi4531"] = true
     }
 }
