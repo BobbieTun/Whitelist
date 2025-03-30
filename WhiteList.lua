@@ -9,6 +9,8 @@ return {
         ["Hibran1986"] = true,
         ["Hanz_Vladimir"] = true,
         ["Bugoispro"] = true,
-        ["ELkhodi4531"] = true
+        ["ELkhodi4531"] = true,
+        ["Izy_venom"] = true,
+        ["Izy_venom2"] = true
     }
 }
