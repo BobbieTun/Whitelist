@@ -11,6 +11,7 @@ return {
         ["Bugoispro"] = true,
         ["ELkhodi4531"] = true,
         ["Izy_venom"] = true,
-        ["Izy_venom2"] = true
+        ["Izy_venom2"] = true,
+        ["Russelarigore22"] = true
     }
 }
