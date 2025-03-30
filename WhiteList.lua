@@ -12,6 +12,7 @@ return {
         ["ELkhodi4531"] = true,
         ["Izy_venom"] = true,
         ["Izy_venom2"] = true,
-        ["Russelarigore22"] = true
+        ["Russelarigore22"] = true,
+        ["Markyy_0311"] = true
     }
 }
