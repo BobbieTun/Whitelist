@@ -19,6 +19,8 @@ return {
         ["ducdayne1253"] = true,
         ["YoungHoangDZ"] = true,
         ["IamUnknownfacility"] = true,
-        ["BForpresident11"] = true
+        ["BForpresident11"] = true,
+        ["Khodi246810"] = true,
+        ["lenlen12345686"] = true
     }
 }
