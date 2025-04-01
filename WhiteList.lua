@@ -18,6 +18,7 @@ return {
         ["The_LegendarkNinja"] = true,
         ["ducdayne1253"] = true,
         ["YoungHoangDZ"] = true,
-        ["IamUnknownfacility"] = true
+        ["IamUnknownfacility"] = true,
+        ["BForpresident11"] = true
     }
 }
