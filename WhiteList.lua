@@ -19,8 +19,9 @@ return {
         ["ducdayne1253"] = true,
         ["YoungHoangDZ"] = true,
         ["IamUnknownfacility"] = true,
-        ["BForPresident11"] = true, -- Fixed capitalization
+        ["BForPresident11"] = true, 
         ["Khodi246810"] = true,
-        ["lenlen12345686"] = true
+        ["lenlen12345686"] = true,
+        ["NkTaAnNn"] = true
     }
 }
