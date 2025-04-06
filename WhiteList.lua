@@ -7,6 +7,7 @@ return {
     buyers = {
         ["ZaneOfSus_HGyA1"] = true,
         ["ducdayne1253"] = true,
-        ["NkTaAnNn"] = true
+        ["NkTaAnNn"] = true,
+        ["YoungHoangDZ"] = true
     }
 }
