@@ -9,6 +9,7 @@ return {
         ["ducdayne1253"] = true,
         ["NkTaAnNn"] = true,
         ["YoungHoangDZ"] = true,
-        ["lamponisinayau"] = true
+        ["lamponisinayau"] = true,
+        ["dapecb"] = true
     }
 }
