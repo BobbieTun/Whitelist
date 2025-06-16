@@ -11,7 +11,8 @@ return {
         ["YoungHoangDZ"] = true,
         ["lamponisinayau"] = true,
         ["dapecb"] = true,
-        ["stiffconcerned16787"] = true
+        ["stiffconcerned16787"] = true,
+        ["luanGK113"] = true
 
     }
 }
